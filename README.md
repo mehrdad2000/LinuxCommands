@@ -1,6 +1,4 @@
-# LinuxCommands
-
-Reference
+# Linux Commands Reference
 
 https://linux.die.net/man/1/
 
