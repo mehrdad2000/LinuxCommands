@@ -293,4 +293,3 @@ https://github.com/coreutils/coreutils
 | .                   | Run a command script in the current shell                         |
 | !!                  | Run the last command again                                        |
 |   ###               | Comment / Remark                                                  |
-| منبع : hellodigi.ir |
