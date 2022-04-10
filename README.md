@@ -6,6 +6,7 @@ https://linux.die.net/man/1/
 
 https://github.com/coreutils/coreutils
 
+https://man7.org/linux/man-pages/dir_all_alphabetic.html
 
 | Bash Command Line   | Function                                                          |
 |---------------------|-------------------------------------------------------------------|
