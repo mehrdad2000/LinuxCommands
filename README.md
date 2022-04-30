@@ -6,6 +6,9 @@ https://github.com/coreutils/coreutils
 
 https://man7.org/linux/man-pages/dir_all_alphabetic.html
 
+#sysctl Kernel Parameter
+https://www.kernel.org/doc/Documentation/sysctl/kernel.txt
+
 | Bash Command Line   | Function                                                          |
 |---------------------|-------------------------------------------------------------------|
 | A                   |                                                                   |
